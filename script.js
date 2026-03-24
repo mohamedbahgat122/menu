@@ -3,7 +3,7 @@ const menuData = [
     // Food items - فراخ مشوية
     {
         name: "نصف فرخة مشوية",
-        price: "2050 ج.م",
+        price: "20 ج.م",
         category: "food",
         subCategory: "grilled",
         description: "نصف فرخة مشوية مع بهارات سرية",
